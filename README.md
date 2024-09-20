@@ -30,8 +30,6 @@
 
 ![Directed-acyclic-graph-DAG-Service-3](https://github.com/user-attachments/assets/93a31ae9-03bf-403e-b662-58f06f1dcdcf)
 
-![cfcf2ea486034b96b36722bb79d78e95](https://github.com/user-attachments/assets/b840f677-53bf-43d1-b142-0da7023d1c79)
-
 ![DAG7-1](https://github.com/user-attachments/assets/99e04929-152b-4a65-b6a6-39137fe21d9a)
 
 [Grafos acíclicos dirigidos – Wikipédia, a enciclopédia livre.pdf](https://github.com/user-attachments/files/17077336/Grafos.aciclicos.dirigidos.Wikipedia.a.enciclopedia.livre.pdf)
