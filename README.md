@@ -24,15 +24,15 @@
 - [Portfólio e Experiência Profissional](#portfólio-e-experiência-profissional)
 
 
-<img width="584" alt="chrome_sqaTWrSGcS" src="https://github.com/user-attachments/assets/5ba93171-4ff0-4986-a69c-cf519b02b682">
-[Grafos acíclicos dirigidos – Wikipédia, a enciclopédia livre.pdf](https://github.com/user-attachments/files/17077332/Grafos.aciclicos.dirigidos.Wikipedia.a.enciclopedia.livre.pdf)
-[Directed acyclic graph - Wikipedia.pdf](https://github.com/user-attachments/files/17077331/Directed.acyclic.graph.-.Wikipedia.pdf)
-[Grafo acíclico direcionado - Wikipédia.pdf](https://github.com/user-attachments/files/17077330/Grafo.aciclico.direcionado.-.Wikipedia.pdf)
-<img width="340" alt="chrome_p3hgs8f5ln" src="https://github.com/user-attachments/assets/165c07f6-379c-4c48-8345-ad4bdd0b28d0">
-<img width="549" alt="chrome_0Dg2orOohj" src="https://github.com/user-attachments/assets/f70a0305-b388-47e0-b295-fe1289ebdab5">
-![Directed-acyclic-graph-DAG-Service-3](https://github.com/user-attachments/assets/79da736b-b7ca-4ef7-9736-510b1879d335)
-![cfcf2ea486034b96b36722bb79d78e95](https://github.com/user-attachments/assets/c3d13409-4f00-42e6-ac1e-6e9bbf0780c1)
-![DAG7-1](https://github.com/user-attachments/assets/71b2f867-b4cd-4b0b-a56a-c7e7fe7c94a4)
+<img width="340" alt="chrome_p3hgs8f5ln" src="https://github.com/user-attachments/assets/d98f7dc0-af20-4304-8ac4-ebc85f8ee954">
+<img width="549" alt="chrome_0Dg2orOohj" src="https://github.com/user-attachments/assets/657cc1a1-3b02-4c13-9d04-38fb93cf8286">
+![Directed-acyclic-graph-DAG-Service-3](https://github.com/user-attachments/assets/93a31ae9-03bf-403e-b662-58f06f1dcdcf)
+![cfcf2ea486034b96b36722bb79d78e95](https://github.com/user-attachments/assets/b840f677-53bf-43d1-b142-0da7023d1c79)
+![DAG7-1](https://github.com/user-attachments/assets/99e04929-152b-4a65-b6a6-39137fe21d9a)
+<img width="584" alt="chrome_sqaTWrSGcS" src="https://github.com/user-attachments/assets/a7efa49b-0f24-4d1a-92b1-bcdfa4f2a105">
+[Grafos acíclicos dirigidos – Wikipédia, a enciclopédia livre.pdf](https://github.com/user-attachments/files/17077336/Grafos.aciclicos.dirigidos.Wikipedia.a.enciclopedia.livre.pdf)
+[Directed acyclic graph - Wikipedia.pdf](https://github.com/user-attachments/files/17077335/Directed.acyclic.graph.-.Wikipedia.pdf)
+[Grafo acíclico direcionado - Wikipédia.pdf](https://github.com/user-attachments/files/17077334/Grafo.aciclico.direcionado.-.Wikipedia.pdf)
 
 
 ---
