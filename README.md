@@ -24,9 +24,9 @@
 - [Portfólio e Experiência Profissional](#portfólio-e-experiência-profissional)
 
 
-<img width="340" alt="chrome_p3hgs8f5ln" src="https://github.com/user-attachments/assets/d98f7dc0-af20-4304-8ac4-ebc85f8ee954">
-<img width="549" alt="chrome_0Dg2orOohj" src="https://github.com/user-attachments/assets/657cc1a1-3b02-4c13-9d04-38fb93cf8286">
-<img width="584" alt="chrome_sqaTWrSGcS" src="https://github.com/user-attachments/assets/a7efa49b-0f24-4d1a-92b1-bcdfa4f2a105">
+
+
+
 
 ![Directed-acyclic-graph-DAG-Service-3](https://github.com/user-attachments/assets/93a31ae9-03bf-403e-b662-58f06f1dcdcf)
 
@@ -49,6 +49,7 @@ Seja bem-vindo ao repositório **definitivo** sobre Grafos Acíclicos no context
 
 > 💡 **Nota**: Este repositório é indicado tanto para **iniciantes** quanto para **profissionais experientes** em inteligência artificial, ciência de dados e engenharia de aprendizado de máquina.
 
+<img width="340" alt="chrome_p3hgs8f5ln" src="https://github.com/user-attachments/assets/d98f7dc0-af20-4304-8ac4-ebc85f8ee954">
 ---
 
 ## ⚙️ Conceitos Básicos
@@ -60,12 +61,14 @@ Aqui, você encontrará uma introdução completa aos principais termos e concei
 - **RAG (Retrieval-Augmented Generation)**: Técnica avançada que combina recuperação de dados com geração de linguagem.
 - **Context Windows**: Janelas de contexto que controlam a quantidade de dados que o modelo pode processar de uma vez.
 
+<img width="549" alt="chrome_0Dg2orOohj" src="https://github.com/user-attachments/assets/657cc1a1-3b02-4c13-9d04-38fb93cf8286">
 ---
 
 ## 🧩 Grafos Acíclicos no Contexto de LLMs
 
 Os **Grafos Acíclicos Dirigidos (DAGs)** desempenham um papel fundamental ao fornecer uma maneira eficaz de representar as relações de dependência entre diferentes tokens e inputs durante o treinamento e a inferência de **LLMs**. Este repositório explora a **estrutura de grafos** como um framework que pode ser aproveitado para **otimização de janelas de contexto** e na **seleção de informações relevantes** em um cenário de **retrieval**.
 
+<img width="584" alt="chrome_sqaTWrSGcS" src="https://github.com/user-attachments/assets/a7efa49b-0f24-4d1a-92b1-bcdfa4f2a105">
 ---
 
 ## 🔍 Retrieval-Augmented Generation (RAG)
